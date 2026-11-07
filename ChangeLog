@@ -1,0 +1,40 @@
+Masscollabs Cloud Platform -- ChangeLog
+
+Copyright (C) 2017-2027 Masscollabs Services
+See the end of the file for license conditions.
+
+2026-11-07  Masscollabs Services  <https://masscollabs.xyz>
+
+	* README.md: Rewrite in US English.  Describe Masscollabs Cloud
+	Platform as a family of Go-based cloud computing services released
+	under AGPL-3.0-or-later, link to https://masscollabs.xyz, and
+	document the military-grade code quality and resilience principles,
+	licensing implications of the AGPL for network use, and the
+	contribution workflow.  Keep the existing License notice.
+	Add a link to the Turkish translation.
+
+	* README.tr.md: New file.  Turkish (Türkiye Türkçesi) translation
+	of README.md with a link back to the English version.  The License
+	notice is kept in English, identical to README.md.
+
+	* ChangeLog: New file.  Record all changes in US English.
+
+	* LICENSE: Unchanged.  GNU Affero General Public License,
+	version 3.
+
+
+This file is part of Masscollabs Cloud Platform.
+
+Masscollabs Cloud Platform is free software: you can redistribute it
+and/or modify it under the terms of the GNU Affero General Public
+License as published by the Free Software Foundation, either version 3
+of the License, or (at your option) any later version.
+
+Masscollabs Cloud Platform is distributed in the hope that it will be
+useful, but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+Affero General Public License for more details.
+
+You should have received a copy of the GNU Affero General Public
+License along with Masscollabs Cloud Platform.  If not, see
+<https://www.gnu.org/licenses/>.
